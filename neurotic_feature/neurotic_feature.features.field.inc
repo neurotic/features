@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * neurotic.features.field.inc
+ * neurotic_feature.features.field.inc
  */
 
 /**
  * Implements hook_field_default_fields().
  */
-function neurotic_field_default_fields() {
+function neurotic_feature_field_default_fields() {
   $fields = array();
 
   // Exported field: 'node-slideshow-body'

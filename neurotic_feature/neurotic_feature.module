@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the neurotic_feature feature.
+ */
+
+include_once('neurotic_feature.features.inc');

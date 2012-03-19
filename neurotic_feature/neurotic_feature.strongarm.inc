@@ -1,13 +1,13 @@
 <?php
 /**
  * @file
- * neurotic.strongarm.inc
+ * neurotic_feature.strongarm.inc
  */
 
 /**
  * Implements hook_strongarm().
  */
-function neurotic_strongarm() {
+function neurotic_feature_strongarm() {
   $export = array();
 
   $strongarm = new stdClass;
